@@ -1,8 +1,12 @@
-### Hi there 👋
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtt159&show_icons=true&theme=synthwave&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Language](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtt159&layout=compact)]
+<h1 align="center">
+  <a target="_blank" href="https://github.com/minhtt159">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtt159&show_icons=true&theme=dark&count_private=true&hide=stars&custom_title=tictactoe" />
+  </a>
+  <br />
+  <a target="_blank" href="https://github.com/minhtt159">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtt159&layout=compact&theme=dark&card_width=445" />
+  </a>
+</h1>
 
 <!--
 **minhtt159/minhtt159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
