@@ -14,22 +14,22 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,lua,cpp,c&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,lua,c,javascript&theme=dark" alt="Languages" />
 </p>
 
 <h4 align="center">Cloud & Infrastructure</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,cloudflare&theme=dark" alt="Cloud & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,,cloudflare&theme=dark" alt="Cloud & Infrastructure" />
 </p>
 
 <h4 align="center">DevOps & Containers</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,github,gitlab,githubactions&theme=dark" alt="DevOps & Containers" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,github,gitlab,git&theme=dark" alt="DevOps & Containers" />
 </p>
 
 <h4 align="center">Tools & Frameworks</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,kafka,htmx,raspberrypi,git,grafana&theme=dark" alt="Tools & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=neovim,htmx,kafka,postgresql,elasticsearch,grafana&theme=dark" alt="Tools & Frameworks" />
 </p>
 
 <br/>
