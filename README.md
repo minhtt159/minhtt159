@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=minhtt159&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Minh%20Tran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
 </p>
 
 <p align="center">
@@ -12,8 +12,24 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
+<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,bash,docker,kubernetes,linux,git&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,lua,cpp,c&theme=dark" alt="Languages" />
+</p>
+
+<h4 align="center">Cloud & Infrastructure</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,cloudflare&theme=dark" alt="Cloud & Infrastructure" />
+</p>
+
+<h4 align="center">DevOps & Containers</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,github,gitlab,githubactions&theme=dark" alt="DevOps & Containers" />
+</p>
+
+<h4 align="center">Tools & Frameworks</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,kafka,htmx,raspberrypi,git,grafana&theme=dark" alt="Tools & Frameworks" />
 </p>
 
 <br/>
@@ -26,23 +42,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhtt159&theme=tokyonight" alt="Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhtt159&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </div>
-
-<br/>
-
-<h3 align="center">📈 Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhtt159&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Readme Activity Graph" />
-</p>
-
-<br/>
-
-<h3 align="center">🏆 GitHub Contributions</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhtt159&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhtt159&theme=tokyonight" alt="Most Commit Language" />
-</p>
 
 <br/>
 
