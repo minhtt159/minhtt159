@@ -1,13 +1,13 @@
-<!-- <h1 align="center">
-  <a target="_blank" href="https://github.com/minhtt159">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtt159&show_icons=true&theme=dark&count_private=true&hide=stars&custom_title=hnimnart" />
-  </a>
-  <br />
-  <a target="_blank" href="https://github.com/minhtt159">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtt159&layout=compact&theme=dark&card_width=445" />
-  </a>
-</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+</p>
 
-<h1 align="center">
-  Hi There!
-</h1>
+<h1 align="center">Hi there, I'm minhtt159! 👋</h1>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=minhtt159&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=minhtt159&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
