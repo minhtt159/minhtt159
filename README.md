@@ -13,7 +13,7 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhtt159&theme=tokyonight" alt="Languages" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhtt159&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhtt159&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </div>
 
 <br/>
