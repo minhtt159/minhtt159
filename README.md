@@ -46,9 +46,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhtt159&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 </p>
