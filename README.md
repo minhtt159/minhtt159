@@ -19,7 +19,7 @@
 
 <h4 align="center">Cloud & Infrastructure</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,,cloudflare&theme=dark" alt="Cloud & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,cloudflare,grafana&theme=dark" alt="Cloud & Infrastructure" />
 </p>
 
 <h4 align="center">DevOps & Containers</h4>
@@ -29,7 +29,7 @@
 
 <h4 align="center">Tools & Frameworks</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,htmx,kafka,postgresql,elasticsearch,grafana&theme=dark" alt="Tools & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=neovim,htmx,kafka,postgresql,elasticsearch,prometheus&theme=dark" alt="Tools & Frameworks" />
 </p>
 
 <br/>
