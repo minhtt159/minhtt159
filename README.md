@@ -4,9 +4,20 @@
 
 <p align="center">
   <a href="https://github.com/minhtt159">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=435&lines=Developer;Open+Source+Enthusiast;Tech+Explorer;Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=435&lines=Kubernetes;Security+Researcher;Engineer;Tech+Explorer;Biker;Keyboard+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+
+<br/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhtt159&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhtt159&theme=tokyonight" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhtt159&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</div>
 
 <br/>
 
@@ -31,17 +42,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=neovim,htmx,kafka,postgresql,elasticsearch,prometheus&theme=dark" alt="Tools & Frameworks" />
 </p>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhtt159&theme=tokyonight" alt="Profile Details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhtt159&theme=tokyonight" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhtt159&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-</div>
 
 <br/>
 
